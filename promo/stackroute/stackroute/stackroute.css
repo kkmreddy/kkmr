@@ -1,0 +1,34 @@
+body {
+    padding: 0;
+    margin: 0;
+}
+header{
+    display: flex;
+    background: black;
+height: 100px;
+justify-content: space-between;
+}
+header img {
+    max-height: 100%;
+}
+.list {
+    display: flex;
+}
+.list li {
+    margin-right: 1em;
+
+}
+.list a {
+    color: orangered
+}
+header button {
+    margin: 3em;
+    text-align: right;
+    
+}
+nav {
+    margin-left: em;
+}
+main h2{
+    inline-size: 0%
+}
